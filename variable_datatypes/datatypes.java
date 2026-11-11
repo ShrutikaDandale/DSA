@@ -17,5 +17,14 @@ public class datatypes {
 
         int number = 25;
         System.out.println(number);
+
+        double d = 22.34;
+        System.out.println(d);
+
+        short s = 3209;
+        System.out.println(s);
+        
+        long l = 409875952;
+        System.out.println(l);
     }
 }
