@@ -9,5 +9,7 @@ public class sum_ab_input {
         int sum = (a + b);
         
         System.out.println(sum);
+
+        sc.close();
     }
 }

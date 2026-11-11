@@ -37,5 +37,6 @@ public class input {
         long l = sc.nextLong();
         System.out.println(l);
 
+        sc.close();
      }
 }
