@@ -14,6 +14,6 @@ public class continue_que {
             }
 
             System.out.println("your num was: " + num);
-        } while(true);
+        } while(true); 
     }
 }
