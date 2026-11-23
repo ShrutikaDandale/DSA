@@ -15,7 +15,7 @@ public class Q1{
         for(int i=0; i<totalnum; i++){
             int num = sc.nextInt();
             if( i % 2 == 0 ){
-                // evensum = num + evensum;
+                 evensum = num + evensum;
             }
             
             else{
