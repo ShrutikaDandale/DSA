@@ -12,7 +12,7 @@ public class find_binomial_coefficient {
         return fact;
     }
 
-    
+
     public static int binCoeff(int n, int r) {
         int fact_n = factorial(n);
         int fact_r = factorial(r);
@@ -27,3 +27,7 @@ public class find_binomial_coefficient {
         System.out.println(binCoeff(5, 2));
     }
 }
+
+
+
+// formula of binCoeff is - n!/(r! * (n-r)!)
