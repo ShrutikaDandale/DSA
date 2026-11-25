@@ -23,3 +23,6 @@ public class hollow_rectangle {
     hollow_rectangles(4, 5);
  }
 }
+
+// i-rows j=colms 
+// here i is used for thr rows while j is colm just like a matrix(i, j)
